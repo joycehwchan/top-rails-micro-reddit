@@ -8,3 +8,4 @@ A mini project created with Ruby on Rails to practice data modeling and database
 * Understand 1:N, N:N relationships
 * Use Rails generators (e.g. `rails generate model model_name`)
 * Change database schema with Rails Migration
+* Simple model validations
